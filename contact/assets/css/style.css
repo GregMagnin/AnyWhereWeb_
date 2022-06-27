@@ -1,0 +1,77 @@
+body {
+  font-family: arial;
+  font-size: 20px;
+  /* background-color: rgb(252, 250, 240); // 252, 250, 240 */
+  background-color: rgb(255, 254, 242);
+}
+
+.form1 {
+  margin: 10px auto;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.red {
+  color: red !important;
+}
+
+.orange {
+  color: orange;
+}
+
+.green {
+  color: green;
+}
+
+option:first {
+  color: red;
+}
+
+.mystyle select {
+  background: url("../img/fleche_bas.png") 95% / 25px no-repeat #fff;
+}
+
+select option[value="0"] {
+  background: #2E6DB4;
+  color: white;
+  display: none;
+}
+
+a.linknav {
+  text-decoration: none;
+  transition-duration: 1s;
+  transition-delay: .25s;
+  padding: 0 7px;
+}
+
+.linknav:hover {
+  color: orangered;
+  background-color: rgba(0, 0, 0, .1);
+  border-radius: 7px;
+  transition: 1s;
+  padding: 0 7px;
+}
+
+.linknav.active {
+  text-decoration: underline;
+}
+
+@media (min-width: 992px) {
+  .linknavgc7 {
+    /* background-color: red; */
+    display: none !important;
+  }
+}
+
+@media (max-width: 992px) {
+  .lg-text {
+    column-width: 150px;
+    /* background-color: red !important; */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-wrap;
+  }
+}
