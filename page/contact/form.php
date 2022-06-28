@@ -2,7 +2,7 @@
   <p><?php echo $_SESSION['result'] ?? null;
   $_SESSION['result'] = null; ?></p>
 </div>
-<form action="views/contact-form/handler.php" method="post" class="row mb-3 form1">
+<form action="handler.php" method="post" class="row mb-3 form1">
   <h1>Contact</h1>
 
   <div class="mb-3">

@@ -89,7 +89,8 @@ header {
   align-items: center;
   color: orange;
   padding: 35px 100px 0;
-  background-color: black;
+  /* 2do restet pure black */
+  background-color:rgba(0, 0, 0, 0.12);
   padding-bottom: 20px;
 }
 

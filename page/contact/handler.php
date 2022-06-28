@@ -29,4 +29,4 @@ $_SESSION['result'] = (
 
 // echo $host . $uri . '/page=feature_contact-form/contact-form.php';
 
-header('Location: http://localhost/AWW/contact/?page=contact-form/contact.php');
+header('Location: http://localhost/AWW/page/contact/index.php');
