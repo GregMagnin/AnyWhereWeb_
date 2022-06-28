@@ -1,7 +1,7 @@
 <?php
 
 namespace SGL\AWW;
-
+session_start();
 ?>
 <title>Contact | AWW</title>
 <link rel="stylesheet" href="../../assets/css/bootstrap520beta.min.css">
