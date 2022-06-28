@@ -1,3 +1,8 @@
+<?php
+
+namespace SGL\AWW;
+
+?>
 <nav>
   <li><a href="#">Accueil</a></li>
   <li><a href="realisations.html">Nos réalisations</a></li>
