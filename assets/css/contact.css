@@ -39,7 +39,7 @@ option:first {
 }
 
 .mystyle select {
-  background: url("../img/fleche_bas.png") 95% / 25px no-repeat #fff;
+  background: url("../../assets/image/fleche_bas.png") 95% / 25px no-repeat #fff;
 }
 
 select option[value="0"] {
