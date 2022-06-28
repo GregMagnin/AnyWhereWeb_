@@ -11,7 +11,7 @@ session_start();
 require_once '../../classes/Nett.php';
 require_once dirname(__FILE__, 3) . '/tools/mail/send_mail.php';
 // require_once dirname(__FILE__,3).'/tools/save_contact.php';
-require_once '../../tools/db/save_contact.php';
+// require_once '../../tools/db/save_contact.php';
 
 $_SESSION['result'] = (
 	($_POST['username'] ?? null) &&
@@ -19,8 +19,9 @@ $_SESSION['result'] = (
   (($_POST['object'] ?? null) &&
   $_POST['message'] ?? null) && strlen($_POST['message']) > 3 &&
   Nett::ss($_POST) &&
-  sendMail($_POST) &&
-  saveContact($_POST)
+  sendMail($_POST)
+  //  &&
+  // saveContact($_POST)
 )
 ?
   '<div class="green">Le message a été parfaitement envoyé par ' . $_POST['username'] . ' (Destinataire: # ' . $_POST['object'] . ')'
