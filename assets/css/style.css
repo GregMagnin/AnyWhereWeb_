@@ -510,6 +510,28 @@ header nav li {
   margin: 2vw;
 }
 
+.flip-card h1 {
+  font: bold 60px;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 15px;
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #cc0000;
+}
+
+.flip-card h3 {
+  font: normal 28px;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 40px;
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #cc0000;
+}
+
 .flip-card-inner {
   position: relative;
   width: 100%;
@@ -550,4 +572,5 @@ header nav li {
 
 .flex {
   display: flex;
+  position:static;
 }
