@@ -579,8 +579,23 @@ header nav li {
   height: 120px;
 }
 
-.flex {
-  display: flex;
+
+.floatLeft .flip-card {
   position: static;
+  float:left;
+}
+
+
+@media (max-width: 1200px) {
+  .floatLeft  {
+    padding-top: 100px;
+  }
+}
+
+
+@media (max-width: 800px) {
+  .floatLeft  {
+    padding-top: 300px;
+  }
 }
 
