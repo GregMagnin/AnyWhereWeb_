@@ -23,7 +23,7 @@ namespace SGL\AWW;
       <ul class="contact">
 
         <li>Téléphone: 07 61 44 48 20</li>
-        <li>E-mail: anywhereweb21@gmail.com</li>
+        <li>E-mail: AnyWhereWeb21@gmail.com</li>
         <li>Adresse: 8C, Rue Jeanne Barret, 21000 - Dijon</li>
       </ul>
     </div>
