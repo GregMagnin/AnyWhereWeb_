@@ -68,7 +68,7 @@ namespace SGL\AWW;
 
   Toute reproduction, distribution, modification, adaptation, retransmission ou publication, même partielle, de ces différents éléments est strictement interdite sans l'accord exprès par écrit de Greg Magnin. Cette représentation ou reproduction, par quelque procédé que ce soit, constitue une contrefaçon sanctionnée par les articles L.335-2 et suivants du Code de la propriété intellectuelle. Le non-respect de cette interdiction constitue une contrefaçon pouvant engager la responsabilité civile et pénale du contrefacteur. En outre, les propriétaires des Contenus copiés pourraient intenter une action en justice à votre encontre.
   </br>
-  <p style="color: #b51a00;"><span style="color: rgb(0, 0, 0);"><b>R.G.P.D. :</b></span></p>
+  <p style="color: #b51a00;" id="rgpd"><span style="color: rgb(0, 0, 0);"><b>R.G.P.D. :</b></span></p>
   Les informations recueillies sur ce formulaire sont enregistrées dans un fichier informatisé par [identité et coordonnées du responsable de traitement] pour [finalités du traitement]. La base légale du traitement est [base légale du traitement].
 
   Les données collectées seront communiquées aux seuls destinataires suivants : [destinataires des données].

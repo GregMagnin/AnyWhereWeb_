@@ -13,7 +13,7 @@ namespace SGL\AWW;
       <ul class="listes-services">
         <li><a href="../../page/accueil#agence">À propos</a></li>
         <li><a href="../../page/mentions_legales/">Mentions légales</a></li>
-        <li><a href="../../page/mentions_legales#RGPD">RGPD</a></li>
+        <li><a href="../../page/mentions_legales#rgpd">RGPD</a></li>
         <li><a href="../../page/contact/">Nous contacter</a></li>
       </ul>
     </div>
