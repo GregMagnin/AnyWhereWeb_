@@ -31,5 +31,6 @@
       </div>
       <div class="mb-3"><label for="field-message" class="form-label">Votre message: </label><textarea placeholder="Racontez-nous tout..." name="message" id="field-object" rows="3" class="form-control">Lorem ipsum dolor sit amet.</textarea></div>
       <div class="mb-5"><input type="submit" value="Envoyer" class="btn btn-outline-warning bold"></div>
+    </div>
   </form>
 </div>
