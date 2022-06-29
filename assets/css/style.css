@@ -90,7 +90,8 @@ header {
   color: orange;
   padding: 35px 100px 0;
   /* 2do restet pure black */
-  background-color:rgba(0, 0, 0, 0.12);
+  /* background-color:rgba(0, 0, 0, 0.12); */
+  background-color: black;
   padding-bottom: 20px;
 }
 
@@ -573,5 +574,5 @@ header nav li {
 
 .flex {
   display: flex;
-  position:static;
+  position: static;
 }
