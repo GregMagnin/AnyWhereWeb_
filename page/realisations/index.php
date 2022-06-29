@@ -9,7 +9,7 @@ namespace SGL\AWW;
 <?php include_once '../../partials/header.php'; ?>
 
 <section class="hero">
-  <span><h1>Nos réalisations:</h1></span>
+<h1>Nos réalisations:</h1>
 <div class="background-image" style="background-image:url(../../assets/image/confiance.jpg);"></div>
 </section>
     

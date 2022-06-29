@@ -23,7 +23,7 @@ namespace SGL\AWW;
     
     <h2 class="titre">
     <a href="/AWW">
-    AnyWhereWeb</a></h2>
+  <span> AnyWhereWeb</span></a></h2>
     
     <?php include_once '../../partials/nav.php'; ?>
     
