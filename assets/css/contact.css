@@ -1,8 +1,8 @@
 .container-form {
   width: 95%;
   margin: 10px auto;
+  z-index: 7000;
 }
-
 
 .hero .background-image-contact {
   position: absolute;
