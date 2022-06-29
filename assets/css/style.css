@@ -598,3 +598,6 @@ header nav li {
   position: static;
 }
 
+.paragraph{
+  text-align: justify;
+}
