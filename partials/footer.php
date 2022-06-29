@@ -12,7 +12,7 @@ namespace SGL\AWW;
 <div class="bloc footer-service"> 
   <h3>AnyWhereWeb</h3>
   <ul class="listes-services">
-    <li><a href="#">Mentions légales</a></li>
+    <li><a href="../../page/mentions_legales/">Mentions légales</a></li>
   </ul>
 </div>
 
@@ -31,6 +31,7 @@ namespace SGL\AWW;
   <ul class="reseaux">
     <li><a href="https://twitter.com/AnyWhereWeb"><img src="../../assets/image/twiter.png">Twitter</a></li>
     <li><a href="https://www.instagram.com/anywhereweb/"><img src="../../assets/image/insta.png">Instagram</a></li>
+    <li><a href="https://www.linkedin.com/in/any-whereweb-b6978a243/"><img src="../../assets/image/ln.png">Linkedin</a></li>
   </ul>
 </div>
 

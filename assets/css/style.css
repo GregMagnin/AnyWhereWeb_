@@ -107,6 +107,13 @@ header h2 {
   font-size: 35px;
 }
 
+h2 .titre a :hover{
+  font-family: 'Lobster', sans-serif;
+  text-decoration: none;
+  box-shadow: none;
+  
+}
+
 header nav {
   display: flex;
 }
@@ -141,6 +148,7 @@ header nav li {
   color: orange;
   text-align: center;
   bottom: 25%;
+ 
 }
 
 .hero .background-image {
@@ -170,6 +178,9 @@ header nav li {
   align-items: center;
   justify-content: center;
   background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 7px;
 }
 
 .hero h3 {
@@ -181,6 +192,9 @@ header nav li {
   align-items: center;
   justify-content: center;
   background-color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 7px;
 }
 
 @media (max-width: 800px) {
