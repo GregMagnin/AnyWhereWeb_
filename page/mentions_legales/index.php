@@ -1,4 +1,8 @@
-<?php namespace SGL\AWW; ?>
+<?php
+
+namespace SGL\AWW;
+
+?>
 
 <title>Mentions Légales | AWW</title>
 <link rel="stylesheet" href="../../assets/css/mentions.css">
@@ -62,6 +66,23 @@ Les liens hypertextes mis en place dans le cadre du présent site internet en di
 Tout le contenu du présent sur le site <a href="http://www.anywhereweb.fr">www.anywhereweb.fr</a>, incluant, de façon non limitative, les graphismes, images, textes, vidéos, animations, sons, logos, gifs et icônes ainsi que leur mise en forme sont la propriété exclusive de la société à l'exception des marques, logos ou contenus appartenant à d'autres sociétés partenaires ou auteurs.
 
 Toute reproduction, distribution, modification, adaptation, retransmission ou publication, même partielle, de ces différents éléments est strictement interdite sans l'accord exprès par écrit de Greg Magnin. Cette représentation ou reproduction, par quelque procédé que ce soit, constitue une contrefaçon sanctionnée par les articles L.335-2 et suivants du Code de la propriété intellectuelle. Le non-respect de cette interdiction constitue une contrefaçon pouvant engager la responsabilité civile et pénale du contrefacteur. En outre, les propriétaires des Contenus copiés pourraient intenter une action en justice à votre encontre.
+</br>
+<p style="color: #b51a00;"><span style="color: rgb(0, 0, 0);"><b>R.G.P.D. :</b></span></p>
+Les informations recueillies sur ce formulaire sont enregistrées dans un fichier informatisé par [identité et coordonnées du responsable de traitement] pour [finalités du traitement]. La base légale du traitement est [base légale du traitement].
+
+Les données collectées seront communiquées aux seuls destinataires suivants : [destinataires des données].
+
+Les données sont conservées pendant [durée de conservation des données prévue par le responsable du traitement ou critères permettant de la déterminer].
+
+Vous pouvez accéder aux données vous concernant, les rectifier, demander leur effacement ou exercer votre droit à la limitation du traitement de vos données. (en fonction de la base légale du traitement, mentionner également : Vous pouvez retirer à tout moment votre consentement au traitement de vos données ; Vous pouvez également vous opposer au traitement de vos données ; Vous pouvez également exercer votre droit à la portabilité de vos données)
+
+Consultez le site cnil.fr pour plus d’informations sur vos droits.
+
+Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez contacter (le cas échéant, notre délégué à la protection des données ou le service chargé de l’exercice de ces droits) : [adresse électronique, postale, coordonnées téléphoniques, etc.] 
+
+Si vous estimez, après nous avoir contactés, que vos droits « Informatique et Libertés » ne sont pas respectés, vous pouvez adresser une réclamation à la CNIL.
+
+N.B : distinguer dans le formulaire de collecte, par exemple via des astérisques, les données dont la fourniture est obligatoire de celles dont la fourniture est facultative et précisez les conséquences éventuelles en cas de non-fourniture des données.
 </br>
 <p style="color: #b51a00;"><span style="color: rgb(0, 0, 0);"><b>Déclaration à la CNIL : </b></span></p>
 Conformément à la loi 78-17 du 6 janvier 1978 (modifiée par la loi 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel) relative à l'informatique, aux fichiers et aux libertés, ce site n'a pas fait l'objet d'une déclaration  auprès de la Commission nationale de l'informatique et des libertés (<a href="http://www.cnil.fr/">www.cnil.fr</a>).
