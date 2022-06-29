@@ -11,7 +11,7 @@ namespace SGL\AWW;
     <div class="bloc footer-service">
       <h3>AnyWhereWeb</h3>
       <ul class="listes-services">
-        <li><a href="#agance">À propos</a></li>
+        <li><a href="#agence">À propos</a></li>
         <li><a href="../../page/mentions_legales/">Mentions légales</a></li>
         <li><a href="../../page/mentions_legales/#RGPD">RGPD</a></li>
         <li><a href="../../page/contact/">Nous contacter</a></li>
