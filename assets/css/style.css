@@ -27,10 +27,17 @@ a {
   cursor: pointer;
   opacity: 0.6;
   font-weight: 800;
+  box-shadow: inset 0 0 0 0 orange;
+  margin: 0 -.25rem;
+  padding: 0 .25rem;
+  transition: color .7s ease-in-out, box-shadow .7s ease-in-out;
 }
 
 a:hover {
   opacity: 1;
+  box-shadow: inset 200px 0 0 0 orange;
+  color: white;
+
 }
 
 section {
@@ -465,9 +472,9 @@ header nav li {
     flex-wrap: wrap;
   }
 
-  ;
+  
 
-  bloc {
+  .bloc {
     width: 40%;
     margin: 0 0;
   }
@@ -576,3 +583,4 @@ header nav li {
   display: flex;
   position: static;
 }
+

@@ -20,7 +20,7 @@ namespace SGL\AWW;
         </div>
         <div class="flip-card-back">
           <h1>Greg</h1>
-          <h3>Web developer back end</h3>
+          <h3>Web developper back end</h3>
           <p>Passionné par le code pur et dur, Greg ne vous décevera pas. </p>
         </div>
       </div>

@@ -9,8 +9,16 @@ namespace SGL\AWW;
 <?php include_once '../../partials/header.php'; ?>
 
 <section class="hero">
-  <div class="background-image" style="background-image:url(../../assets/image/code_html.jpg);"></div>
+  <span><h1>Nos réalisations:</h1></span>
+<div class="background-image" style="background-image:url(../../assets/image/confiance.jpg);"></div>
 </section>
-    <h1>REALISATIONS</h1>
+    
+<section class="trust">
+
+<p class="confiance">Des centaines de personnes nous font confiance, regardez leurs avis ci-dessous</p>
+
+</section>
+
+
 
 <?php include_once '../../partials/footer.php'; ?>

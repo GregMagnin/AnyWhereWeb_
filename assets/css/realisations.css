@@ -175,9 +175,16 @@ header nav li {
     }
 }
 
-/* L'agence section */
+/* Paragraphe avis */
 
+.trust {
+    position: relative;
+}
 
+.confiance{
+    position: relative;
+    top: -50px;
+}
 
 /* carousel */
 
