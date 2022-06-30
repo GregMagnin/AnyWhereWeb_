@@ -24,9 +24,10 @@ $_SESSION['result'] = (
   // saveContact($_POST)
 )
 ?
-  '<div class="green">Le message a été parfaitement envoyé par ' . $_POST['username'] . ' (Destinataire: # ' . $_POST['object'] . ')'
+  '<div class="msg-green">Votre message a été parfaitementenvoyé.<br>
+  Aussi, nous vous y feront suite dans les plus brefs délais si nécessaire.</div>'
 :
-	$_SESSION['result'] = '<div class="red">Merci de remplir correctement tous les champs !</div>';
+	$_SESSION['result'] = '<div class="msg-red">Merci de remplir correctement tous les champs !</div>';
 
 // echo $host . $uri . '/page=feature_contact-form/contact-form.php';
 
