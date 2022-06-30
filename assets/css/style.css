@@ -62,7 +62,7 @@ section {
 }
 
 section h3.title {
-  color: #414a4f;
+  /* color: #414a4f; */
   text-transform: capitalize;
   font-family: 'Poppins', sans-serif;
   margin-bottom: 35px;
@@ -219,10 +219,15 @@ header nav li {
 
 /* L'agence section */
 
+.lagence h3 {
+  color: #ffa500;
+}
+
 .lagence .grid li {
   padding: 20px;
   height: 350px;
   border-radius: 3px;
+ 
 
   background-clip: content-box;
   background-size: cover;
@@ -235,6 +240,10 @@ header nav li {
 
 .lagence .grid li.large {
   flex-basis: 60px;
+}
+
+.souligne strong {
+  text-decoration: underline;
 }
 
 @media(max-width: 1000px) {
