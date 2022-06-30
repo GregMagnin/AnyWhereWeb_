@@ -10,9 +10,10 @@
   //  Aussi, nous vous y feront suite dans les plus brefs délais si nécessaire.</div>';
   ?> -->
   
-      <p><?php echo $_SESSION['result'] ?? null;
+    <div class="erreur">  <p><?php echo $_SESSION['result'] ?? null;
 		  $_SESSION['result'] = null; ?></p>
     </div>
+  </div>
     <form action="handler.php" method="post" class="row mb-3">
       <div class="container">
         <h1>Contact</h1>
