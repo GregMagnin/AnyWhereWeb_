@@ -12,7 +12,7 @@ namespace SGL\AWW;
 <section class="hero">
   <div class="background-image" style="background-image:url(../../assets/image/code_html.jpg);">L'ÉQUIPE</div>
   <div class="margintop"> </div>
-  <div class="flex">
+  <div class="floatLeft">
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
@@ -20,7 +20,7 @@ namespace SGL\AWW;
         </div>
         <div class="flip-card-back">
           <h1>Greg</h1>
-          <h3>Web developper back end</h3>
+          <h3>Web developer back end</h3>
           <p>Passionné par le code pur et dur, Greg ne vous décevera pas. </p>
         </div>
       </div>
