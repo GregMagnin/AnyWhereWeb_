@@ -2,9 +2,9 @@
 
   <h3 class="title">Nos services à votre service</h3>
 
-  <p class="paragraph">Réalisation de sites internet, applications et stratégie digitale.</p>
+  <div class="paragraph">Réalisation de sites internet, applications et stratégie digitale.</div><br><br>
 
-  <div class="paragraph">Profitez de l’expertise d’une agence web pour vous accompagner dans votre stratégie digitale. Nos experts sont là pour vous conseiller et vous guider sur les canaux digitaux les plus adaptés à votre business.</div>
+  <div class="paragraph">Profitez de l’expertise d’une agence web pour vous accompagner dans votre stratégie digitale. Nos experts sont là pour vous conseiller et vous guider sur les canaux digitaux les plus adaptés à votre business.</div><br>
 
   <ul>
     <li>Site e-commerce</li>
