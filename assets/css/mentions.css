@@ -9,6 +9,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    
 }
 
 html {
@@ -139,9 +140,8 @@ header nav li {
     width: 100%;
     height: 100%;
     background-size: cover;
-    background-color: #2196F3;
-    z-index: -1;
-    opacity: 0.7;
+    background-color: red;
+    z-index: 10;
 }
 
 @media (max-width: 600px){
@@ -321,4 +321,8 @@ header nav li {
     .bloc:nth-child(1) {
         margin-top: 0;
     }
+}
+
+.back{
+    background-color: #333;
 }

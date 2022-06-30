@@ -1,8 +1,9 @@
-<section class="lagence">
+<section class="lagence" id="agence">
 
   <h3 class="title">L'agence</h3>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis eveniet hic esse maxime aut repudiandae provident aliquid veritatis doloribus beatae architecto vero voluptatem, molestias eligendi eius reiciendis magni nesciunt laudantium.</p>
-
+  <p>Créée en 2022, nous avons pour but de mettre toute notre expertise dans la création de vos sites web. </br>
+    Que vous soyez un <strong>particulier</strong> une <strong>marque</strong> ou même un <strong>influenceur</strong>,</br>
+   nous mettons tout en oeuvre pour <strong class="souligne">la création, l'optimisation et la publication de vos sites web.</strong></p> </br> 
   <hr>
 
   <ul class="grid">
