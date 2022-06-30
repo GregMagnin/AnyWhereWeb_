@@ -4,6 +4,6 @@
     <h1>Bienvenue sur AnyWhereWeb !</h1>
   </span>
   <span>
-    <h3>Votre site web... Partout !</h3>
+    <h3>Votre agence web... Partout !</h3>
   </span>
 </section>
