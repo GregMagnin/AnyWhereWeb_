@@ -246,6 +246,13 @@ header nav li {
   text-decoration: underline;
 }
 
+.liencontact{
+  opacity: 0.9;
+  text-decoration: underline;
+  /* text-decoration-color: #cc0000; */
+  text-decoration-thickness: 30%;
+}
+
 @media(max-width: 1000px) {
 
   .lagence .grid li.small,
