@@ -70,6 +70,9 @@
   border-radius: 7px;
 }
 
+.erreur {
+  padding-top: 75px;
+}
 .mystyle select {
   background: url("../../assets/image/fleche_bas.png") 95% / 25px no-repeat #fff;
 }
