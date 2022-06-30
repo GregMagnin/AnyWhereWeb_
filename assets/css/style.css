@@ -9,12 +9,14 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+  
 }
 
 html {
   font: 16px;
   color: orange;
   font-family: 'Poppins', sans-serif;
+  background-color: #222328;
 }
 
 li, nav {
@@ -35,7 +37,7 @@ a {
 
 a:hover {
   opacity: 1;
-  box-shadow: inset 200px 0 0 0 orange;
+  box-shadow: inset 250px 0 0 0 orange;
   color: white;
 
 }
@@ -98,7 +100,7 @@ header {
   padding: 35px 100px 0;
   /* 2do restet pure black */
   /* background-color:rgba(0, 0, 0, 0.12); */
-  background-color: black;
+  background-color: #222328;
   padding-bottom: 20px;
 }
 
@@ -107,12 +109,12 @@ header h2 {
   font-size: 35px;
 }
 
-h2 .titre a :hover{
-  font-family: 'Lobster', sans-serif;
-  text-decoration: none;
+span {
+  font-family: 'lobster', sans-serif;
   box-shadow: none;
-  
 }
+
+
 
 header nav {
   display: flex;
@@ -160,7 +162,7 @@ header nav li {
   background-size: cover;
   background-color: #2196F3;
   z-index: -1;
-  opacity: 0.7;
+  opacity: 1;
 }
 
 @media (max-width: 600px) {
@@ -250,9 +252,10 @@ header nav li {
   width: 960px;
   height: 300px;
   margin: 50px auto;
-  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12),
-    0 3px 1px -2px rgba(0, 0, 0, 0.2);
-  overflow: hidden;
+  background-color: #18191d;
+  border-radius: 2%;
+ overflow: hidden;
+  
 }
 
 .slider-controls {
@@ -414,7 +417,7 @@ header nav li {
   flex-shrink: 0;
   border-top: 1px dashed black;
   width: 100%;
-  background-color: grey;
+  background-color: rgba(255, 255, 255, 0.952);
   display: flex;
   flex-direction: column;
 

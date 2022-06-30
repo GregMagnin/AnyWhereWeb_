@@ -7,7 +7,8 @@
         $_SESSION['result'] = null; ?></p>
   </div>
   <form action="handler.php" method="post" class="row mb-3">
-    <h1>Contact</h1>
+  <div class="container">
+  <h1>Contact</h1>
     
     <div class="mb-3">
       <label for="field-username" class="form-label">Nom: </label>
@@ -42,5 +43,5 @@
       </div>
   </form>
 </div>
-
+</div> 
 </section>

@@ -23,7 +23,7 @@
       <li class="slide">
         <div class="slide-content">
           <p class="slide-text">Une équipe soudée et compétente.</p>
-          <a href="#" class="slide-link">En savoir plus</a>
+          <a href="../../page/equipe/index.php" class="slide-link">En savoir plus</a>
         </div>
         <p class="slide-image">
           <img src="../../assets/image/bureau.jpeg" alt="stuff" width="320" height="240">
@@ -32,7 +32,7 @@
       <li class="slide">
         <div class="slide-content">
           <p class="slide-text">Des clients satisfaits et qui ont confiance en nous !</p>
-          <a href="realisations.html" class="slide-link">En savoir plus</a>
+          <a href="../../page/realisations/index.php" class="slide-link">En savoir plus</a>
         </div>
         <p class="slide-image">
           <img src="../../assets/image/carousel_3.jpg" alt="stuff" width="320" height="240">
