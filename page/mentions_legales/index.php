@@ -51,9 +51,9 @@ namespace SGL\AWW;
 
   Dans l'hypothèse où un utilisateur ou visiteur souhaiterait mettre en place un hyperlien en direction d’un des sites internet de Greg Magnin, il lui appartiendra d'adresser un email accessible sur le site afin de formuler sa demande de mise en place d'un hyperlien. Greg Magnin se réserve le droit d’accepter ou de refuser un hyperlien sans avoir à en justifier sa décision.
   </br>
-  <p style="color: #b51a00;"><span style="color: rgb(0, 0, 0);"><b>Services fournis : </b></span></p>
-  <p style="color: #323333;">L'ensemble des activités de la société ainsi que ses informations sont présentés sur notre site <a href="http://www.anywhereweb.fr">www.anywhereweb.fr</a>.</p>
-  <p style="color: #323333;">Greg Magnin s’efforce de fournir sur le site www.anywhereweb.fr des informations aussi précises que possible. les renseignements figurant sur le site <a href="http://www.anywhereweb.fr">www.anywhereweb.fr</a> ne sont pas exhaustifs et les photos non contractuelles. Ils sont donnés sous réserve de modifications ayant été apportées depuis leur mise en ligne. Par ailleurs, tous les informations indiquées sur le site www.anywhereweb.fr<span style="color: #000000;"><b> </b></span>sont données à titre indicatif, et sont susceptibles de changer ou d’évoluer sans préavis. </p>
+  <p style="color: #b51a00;" id="services"><span style="color: rgb(0, 0, 0);"><b>Services fournis : </b></span></p>
+  <p style="color: orange;">L'ensemble des activités de la société ainsi que ses informations sont présentés sur notre site <a href="http://www.anywhereweb.fr">www.anywhereweb.fr</a>.</p>
+  <p style="color: orange;">Greg Magnin s’efforce de fournir sur le site www.anywhereweb.fr des informations aussi précises que possible. les renseignements figurant sur le site <a href="http://www.anywhereweb.fr">www.anywhereweb.fr</a> ne sont pas exhaustifs et les photos non contractuelles. Ils sont donnés sous réserve de modifications ayant été apportées depuis leur mise en ligne. Par ailleurs, tous les informations indiquées sur le site www.anywhereweb.fr<span style="color: #000000;"><b> </b></span>sont données à titre indicatif, et sont susceptibles de changer ou d’évoluer sans préavis. </p>
   </br>
   <p style="color: #b51a00;"><span style="color: rgb(0, 0, 0);"><b>Limitation contractuelles sur les données : </b></span></p>
   Les informations contenues sur ce site sont aussi précises que possible et le site remis à jour à différentes périodes de l’année, mais peut toutefois contenir des inexactitudes ou des omissions. Si vous constatez une lacune, erreur ou ce qui parait être un dysfonctionnement, merci de bien vouloir le signaler par email, à l’adresse anywhereweb21@gmail.com, en décrivant le problème de la manière la plus précise possible (page posant problème, type d’ordinateur et de navigateur utilisé, …).
@@ -67,7 +67,7 @@ namespace SGL\AWW;
   Tout le contenu du présent sur le site <a href="http://www.anywhereweb.fr">www.anywhereweb.fr</a>, incluant, de façon non limitative, les graphismes, images, textes, vidéos, animations, sons, logos, gifs et icônes ainsi que leur mise en forme sont la propriété exclusive de la société à l'exception des marques, logos ou contenus appartenant à d'autres sociétés partenaires ou auteurs.
 
   Toute reproduction, distribution, modification, adaptation, retransmission ou publication, même partielle, de ces différents éléments est strictement interdite sans l'accord exprès par écrit de Greg Magnin. Cette représentation ou reproduction, par quelque procédé que ce soit, constitue une contrefaçon sanctionnée par les articles L.335-2 et suivants du Code de la propriété intellectuelle. Le non-respect de cette interdiction constitue une contrefaçon pouvant engager la responsabilité civile et pénale du contrefacteur. En outre, les propriétaires des Contenus copiés pourraient intenter une action en justice à votre encontre.
-  </br>
+  </br><br>
   <p style="color: #b51a00;" id="rgpd"><span style="color: rgb(0, 0, 0);"><b>R.G.P.D. :</b></span></p>
   Les informations recueillies sur ce formulaire sont enregistrées dans un fichier informatisé par [identité et coordonnées du responsable de traitement] pour [finalités du traitement]. La base légale du traitement est [base légale du traitement].
 
