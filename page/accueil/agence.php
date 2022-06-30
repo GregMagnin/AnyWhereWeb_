@@ -1,8 +1,12 @@
 <section class="lagence" id="agence">
 
   <h3 class="title">L'agence</h3>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis eveniet hic esse maxime aut repudiandae provident aliquid veritatis doloribus beatae architecto vero voluptatem, molestias eligendi eius reiciendis magni nesciunt laudantium.</p>
+  <p>Une agence web d'expérience à Dijon</p>
+  <p>Atteignez votre cible ! Vos prospects et vos clients se trouvent forcément sur le web.
 
+  <div class="paragraph">
+    Quelle que soit sa taille ou son secteur d’activité, une entreprise doit impérativement assurer et maitriser sa présence sur internet.
+  </div>
   <hr>
 
   <ul class="grid">
