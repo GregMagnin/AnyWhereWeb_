@@ -9,7 +9,7 @@ namespace SGL\AWW;
   <div class="contenu-footer">
 
     <div class="bloc footer-service">
-      <h3>AnyWhereWeb</h3>
+      <h3>AnyWhereWeb</h3><br>
       <ul class="listes-services">
         <li><a href="../../page/accueil#agence">À propos</a></li>
         <li><a href="../../page/mentions_legales/">Mentions légales</a></li>
@@ -19,17 +19,19 @@ namespace SGL\AWW;
     </div>
 
     <div class="bloc footer-contact">
-      <h3>Nos coordonnées</h3>
+      <h3>Nos coordonnées</h3><br>
       <ul class="contact">
 
-        <li>Téléphone: 07 61 44 48 20</li>
-        <li>E-mail: AnyWhereWeb21@gmail.com</li>
-        <li>Adresse: 8C, Rue Jeanne Barret, 21000 - Dijon</li>
+        <li>Téléphone: 07 61 44 48 20</li><br>
+        <li>E-mail: AnyWhereWeb21@gmail.com</li><br>
+        <li>Adresse:<br>
+         8C, Rue Jeanne Barret<br>
+         21000 - Dijon</li>
       </ul>
     </div>
 
     <div class=" bloc footer-reseaux">
-      <h3>Suivez nous !</h3>
+      <h3>Suivez nous !</h3><br>
       <ul class="reseaux">
         <li><a href="https://twitter.com/AnyWhereWeb"><img src="../../assets/image/twiter.png">Twitter</a></li>
         <li><a href="https://www.instagram.com/anywhereweb/"><img src="../../assets/image/insta.png">Instagram</a></li>
