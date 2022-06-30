@@ -5,10 +5,10 @@
     
     <div class="mt110">
   
-  <?php
-	 $_SESSION['result'] = '<div class="msg-green">Votre message a été parfaitementenvoyé.<br>
-   Aussi, nous vous y feront suite dans les plus brefs délais si nécessaire.</div>';
-  ?>
+  <!-- <?php
+	//  $_SESSION['result'] = '<div class="msg-green">Votre message a été parfaitementenvoyé.<br>
+  //  Aussi, nous vous y feront suite dans les plus brefs délais si nécessaire.</div>';
+  ?> -->
   
       <p><?php echo $_SESSION['result'] ?? null;
 		  $_SESSION['result'] = null; ?></p>
