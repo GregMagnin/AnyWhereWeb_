@@ -25,8 +25,9 @@ namespace SGL\AWW;
         <li>Téléphone: 07 61 44 48 20</li><br>
         <li>E-mail: AnyWhereWeb21@gmail.com</li><br>
         <li>Adresse:<br>
-         8C, Rue Jeanne Barret<br>
-         21000 - Dijon</li>
+         8C, Rue Jeanne Barret</br>
+         21000 - Dijon </br>
+        <a href="../../page/map">(Nous trouver)</a></li>
       </ul>
     </div>
 
@@ -41,7 +42,6 @@ namespace SGL\AWW;
 
 
   </div>
-
 
 
 </footer>

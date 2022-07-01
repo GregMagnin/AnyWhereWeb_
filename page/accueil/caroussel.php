@@ -15,6 +15,7 @@
       <li class="slide">
         <div class="slide-content">
           <p class="slide-text">Une agence à la pointe de la technologie.</p>
+          <a href="../../page/accueil#agence" class="slide-link">En savoir plus</a>
         </div>
         <p class="slide-image">
           <img src="../../assets/image/carousel_1.jpg" alt="stuff" width="320" height="240">
@@ -37,6 +38,7 @@
         <p class="slide-image">
           <img src="../../assets/image/carousel_3.jpg" alt="stuff" width="320" height="240">
         </p>
+        
       </li>
     </ul>
   </div>

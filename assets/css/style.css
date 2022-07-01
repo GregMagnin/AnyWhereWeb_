@@ -308,15 +308,15 @@ header nav li {
 }
 
 #btn-1:checked~.slider-controls label[for="btn-1"] {
-  background-color: #ff4081;
+  background-color: #ffa500;
 }
 
 #btn-2:checked~.slider-controls label[for="btn-2"] {
-  background-color: #ff4081;
+  background-color: #ffa500;
 }
 
 #btn-3:checked~.slider-controls label[for="btn-3"] {
-  background-color: #ff4081;
+  background-color: #ffa500;
 }
 
 /* SLIDES */
@@ -355,6 +355,7 @@ header nav li {
 
 .slide-text {
   margin-bottom: 20px;
+  padding-right: 20px;
 }
 
 .slide-link {
@@ -363,7 +364,7 @@ header nav li {
   color: #fff;
   border-radius: 3px;
   text-decoration: none;
-  background-color: #ff4081;
+  background-color: #ffa500;
 }
 
 .slide-image img {
