@@ -22,7 +22,7 @@ namespace SGL\AWW;
       <h3>Nos coordonnées</h3><br>
       <ul class="contact">
 
-        <li>Téléphone: 07 61 44 48 20</li><br>
+        <li>Téléphone: 03 03 03 03 03</li><br>
         <li>E-mail: AnyWhereWeb21@gmail.com</li><br>
         <li>Adresse:<br>
          8C, Rue Jeanne Barret</br>
