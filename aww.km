@@ -1,0 +1,199 @@
+{
+    "root": {
+        "data": {
+            "id": "cl6owsqpf0w0",
+            "created": 1656919409944,
+            "text": "AnyWhereWeb"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cl6owxzqlls0",
+                    "created": 1656919421374,
+                    "text": "1 - Lionel"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cl6oxrsj6ow0",
+                            "created": 1656919486242,
+                            "text": "Identité",
+                            "layout_right_offset": {
+                                "x": 0,
+                                "y": 30
+                            },
+                            "note": "AnyWhereWeb"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl6ozuky7g00",
+                                    "created": 1656919649042,
+                                    "text": "Nom d'enseigne",
+                                    "expandState": "expand",
+                                    "note": "AnyWhereWeb"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6oy8wtj7s0",
+                                            "created": 1656919523506,
+                                            "text": "Slogan",
+                                            "note": "Votre agence web... Partout !"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cl6oyenvt8w0",
+                                            "created": 1656919536027,
+                                            "text": "Charte graphique"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cl6oyk15hhc0",
+                                                    "created": 1656919547713,
+                                                    "text": "Palette chromatique"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cl6oync3g8w0",
+                                                    "created": 1656919554906,
+                                                    "text": "Typo"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cl6p2bym7080",
+                                                    "created": 1656919843602,
+                                                    "text": "Greg présente les résultats de ces choix"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl6ozrh8vpc0",
+                            "created": 1656919642288,
+                            "text": "Cahier des charges",
+                            "note": "Doc .odt\n"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl6p2uwoht40",
+                                    "created": 1656919884844,
+                                    "text": "Reprise de ces infos"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6p303lkmw0",
+                                    "created": 1656919896146,
+                                    "text": "Étude de la concurrence"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6p34wvg9k0",
+                                    "created": 1656919906623,
+                                    "text": "Détermination de nos offres & cible"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6p3f8aiy00",
+                                    "created": 1656919929081,
+                                    "text": "Mentions légales"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cl6owzz4wzk0",
+                    "created": 1656919425691,
+                    "text": "2 - Greg"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cl6oy28yaqo0",
+                            "created": 1656919509002,
+                            "text": "Planches tendance"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl6oy2c8h5c0",
+                                    "created": 1656919509201,
+                                    "text": ""
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl6oz1q7x6g0",
+                            "created": 1656919586234,
+                            "text": "Maquettes"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cl6p11ynwyg0",
+                            "created": 1656919743473,
+                            "text": "Images choisies"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cl6p2ioyz8w0",
+                            "created": 1656919858256,
+                            "text": "Solène présente les résultats des ces ébauches"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cl6ox1um2h40",
+                    "created": 1656919429771,
+                    "text": "3 - Solene"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cl6oxxntzds0",
+                            "created": 1656919499018,
+                            "text": "Présentation du site"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
