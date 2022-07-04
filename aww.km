@@ -29,6 +29,14 @@
                     },
                     {
                         "data": {
+                            "id": "cl6ulgqaxm00",
+                            "created": 1656935448452,
+                            "text": "Technos B-End"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
                             "id": "cl6p2ioyz8w0",
                             "created": 1656919858256,
                             "text": "Solène présente les résultats des ces ébauches"
@@ -42,7 +50,11 @@
                     "id": "cl6owzz4wzk0",
                     "created": 1656919425691,
                     "text": "1 - Greg",
-                    "expandState": "expand"
+                    "expandState": "expand",
+                    "layout_mind_offset": {
+                        "x": -80,
+                        "y": -47
+                    }
                 },
                 "children": [
                     {
@@ -78,7 +90,7 @@
                             "note": "Doc .odt\n",
                             "layout_right_offset": {
                                 "x": -1,
-                                "y": -108
+                                "y": -65
                             }
                         },
                         "children": [
@@ -200,7 +212,11 @@
                 "data": {
                     "id": "cl6ox1um2h40",
                     "created": 1656919429771,
-                    "text": "3 - Solene"
+                    "text": "3 - Solene",
+                    "layout_mind_offset": {
+                        "x": -27,
+                        "y": 132
+                    }
                 },
                 "children": [
                     {
