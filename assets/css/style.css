@@ -46,7 +46,7 @@ section {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 125px 100px;
+  padding: 50px 30px;
 }
 
 @media (max-width: 1000px) {
@@ -610,7 +610,7 @@ header nav li {
 
 
 .margintop {
-  height: 120px;
+  height: 150px;
 }
 
 
