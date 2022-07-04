@@ -12,7 +12,7 @@ namespace SGL\AWW;
   <span>
     <h1 class="top110">Nos réalisations:</h1>
   </span>
-  <div class="background-image" style="background-image:url(../../assets/image/confiance.jpg);"></div>
+  <div class="background-image" style="background-image:url(../../assets/image/technologie.jpg);"></div>
 </section>
 
 <section class="top80">
@@ -80,5 +80,4 @@ namespace SGL\AWW;
   </div>
 
 </section>
-
 <?php include_once '../../partials/footer.php'; ?>
