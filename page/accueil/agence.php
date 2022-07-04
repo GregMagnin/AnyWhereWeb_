@@ -9,6 +9,6 @@
   <hr>
 
   <ul class="grid">
-    <li class="small" style="background-image:url(../../assets/image/ordis.png) ;"></li>
+    <li class="small" style="background-image:url(../../assets/image/agence.jpg) ;"></li>
   </ul>
 </section>
