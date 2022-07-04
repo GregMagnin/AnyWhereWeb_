@@ -10,82 +10,76 @@
                 "data": {
                     "id": "cl6owxzqlls0",
                     "created": 1656919421374,
-                    "text": "1 - Lionel"
+                    "text": "2 - Lionel",
+                    "expandState": "expand",
+                    "layout_mind_offset": {
+                        "x": -312,
+                        "y": 404
+                    }
                 },
                 "children": [
                     {
                         "data": {
-                            "id": "cl6oxrsj6ow0",
-                            "created": 1656919486242,
-                            "text": "Identité",
-                            "layout_right_offset": {
-                                "x": 0,
-                                "y": 30
-                            },
-                            "note": "AnyWhereWeb"
+                            "id": "cl6oz1q7x6g0",
+                            "created": 1656919586234,
+                            "text": "Maquettes",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cl6p2ioyz8w0",
+                            "created": 1656919858256,
+                            "text": "Solène présente les résultats des ces ébauches"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cl6owzz4wzk0",
+                    "created": 1656919425691,
+                    "text": "1 - Greg",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cl6oy28yaqo0",
+                            "created": 1656919509002,
+                            "text": "Planches tendance"
                         },
                         "children": [
                             {
                                 "data": {
-                                    "id": "cl6ozuky7g00",
-                                    "created": 1656919649042,
-                                    "text": "Nom d'enseigne",
-                                    "expandState": "expand",
-                                    "note": "AnyWhereWeb"
+                                    "id": "cl6oy2c8h5c0",
+                                    "created": 1656919509201,
+                                    "text": ""
                                 },
-                                "children": [
-                                    {
-                                        "data": {
-                                            "id": "cl6oy8wtj7s0",
-                                            "created": 1656919523506,
-                                            "text": "Slogan",
-                                            "note": "Votre agence web... Partout !"
-                                        },
-                                        "children": []
-                                    },
-                                    {
-                                        "data": {
-                                            "id": "cl6oyenvt8w0",
-                                            "created": 1656919536027,
-                                            "text": "Charte graphique"
-                                        },
-                                        "children": [
-                                            {
-                                                "data": {
-                                                    "id": "cl6oyk15hhc0",
-                                                    "created": 1656919547713,
-                                                    "text": "Palette chromatique"
-                                                },
-                                                "children": []
-                                            },
-                                            {
-                                                "data": {
-                                                    "id": "cl6oync3g8w0",
-                                                    "created": 1656919554906,
-                                                    "text": "Typo"
-                                                },
-                                                "children": []
-                                            },
-                                            {
-                                                "data": {
-                                                    "id": "cl6p2bym7080",
-                                                    "created": 1656919843602,
-                                                    "text": "Greg présente les résultats de ces choix"
-                                                },
-                                                "children": []
-                                            }
-                                        ]
-                                    }
-                                ]
+                                "children": []
                             }
                         ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl6p11ynwyg0",
+                            "created": 1656919743473,
+                            "text": "Images choisies"
+                        },
+                        "children": []
                     },
                     {
                         "data": {
                             "id": "cl6ozrh8vpc0",
                             "created": 1656919642288,
                             "text": "Cahier des charges",
-                            "note": "Doc .odt\n"
+                            "note": "Doc .odt\n",
+                            "layout_right_offset": {
+                                "x": -1,
+                                "y": -108
+                            }
                         },
                         "children": [
                             {
@@ -121,54 +115,82 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "data": {
-                    "id": "cl6owzz4wzk0",
-                    "created": 1656919425691,
-                    "text": "2 - Greg"
-                },
-                "children": [
+                    },
                     {
                         "data": {
-                            "id": "cl6oy28yaqo0",
-                            "created": 1656919509002,
-                            "text": "Planches tendance"
+                            "id": "cl6oxrsj6ow0",
+                            "created": 1656919486242,
+                            "text": "Identité",
+                            "layout_right_offset": {
+                                "x": 14,
+                                "y": -503
+                            },
+                            "note": "AnyWhereWeb",
+                            "layout": null
                         },
                         "children": [
                             {
                                 "data": {
-                                    "id": "cl6oy2c8h5c0",
-                                    "created": 1656919509201,
-                                    "text": ""
+                                    "id": "cl6ozuky7g00",
+                                    "created": 1656919649042,
+                                    "text": "Nom d'enseigne",
+                                    "expandState": "expand",
+                                    "note": "AnyWhereWeb",
+                                    "layout": null
                                 },
-                                "children": []
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6oy8wtj7s0",
+                                            "created": 1656919523506,
+                                            "text": "Slogan",
+                                            "note": "Votre agence web... Partout !",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cl6oyenvt8w0",
+                                            "created": 1656919536027,
+                                            "text": "Charte graphique",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cl6oyk15hhc0",
+                                                    "created": 1656919547713,
+                                                    "text": "Palette chromatique",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cl6oync3g8w0",
+                                                    "created": 1656919554906,
+                                                    "text": "Typo",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
                             }
                         ]
                     },
                     {
                         "data": {
-                            "id": "cl6oz1q7x6g0",
-                            "created": 1656919586234,
-                            "text": "Maquettes"
-                        },
-                        "children": []
-                    },
-                    {
-                        "data": {
-                            "id": "cl6p11ynwyg0",
-                            "created": 1656919743473,
-                            "text": "Images choisies"
-                        },
-                        "children": []
-                    },
-                    {
-                        "data": {
-                            "id": "cl6p2ioyz8w0",
-                            "created": 1656919858256,
-                            "text": "Solène présente les résultats des ces ébauches"
+                            "id": "cl6p2bym7080",
+                            "created": 1656919843602,
+                            "text": "Lionel présente les résultats de ces choix",
+                            "layout_right_offset": {
+                                "x": -21,
+                                "y": -193
+                            },
+                            "layout": null
                         },
                         "children": []
                     }
