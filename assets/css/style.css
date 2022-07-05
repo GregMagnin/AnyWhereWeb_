@@ -46,7 +46,7 @@ section {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 125px 100px;
+  padding: 50px 30px;
 }
 
 @media (max-width: 1000px) {
@@ -79,8 +79,8 @@ section p {
 
 ul.grid {
   width: 100%;
-  display: flex;
-  flex-wrap: wrap;
+  /* display: flex;
+  flex-wrap: wrap; */
   justify-content: center;
 }
 
@@ -227,7 +227,7 @@ header nav li {
   padding: 20px;
   height: 350px;
   border-radius: 3px;
- 
+  width: 100%;
 
   background-clip: content-box;
   background-size: cover;
@@ -236,6 +236,7 @@ header nav li {
 
 .lagence .grid li.small {
   flex-basis: 40%;
+  
 }
 
 .lagence .grid li.large {
@@ -265,7 +266,7 @@ header nav li {
 
 .slider {
   position: relative;
-  width: 960px;
+  width: 100%;
   height: 300px;
   margin: 50px auto;
   background-color: #18191d;
@@ -610,7 +611,7 @@ header nav li {
 
 
 .margintop {
-  height: 120px;
+  height: 150px;
 }
 
 

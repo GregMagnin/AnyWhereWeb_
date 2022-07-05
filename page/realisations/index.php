@@ -12,22 +12,32 @@ namespace SGL\AWW;
   <span>
     <h1 class="top110">Nos réalisations:</h1>
   </span>
-  <div class="background-image" style="background-image:url(../../assets/image/confiance.jpg);"></div>
+  <div class="background-image" style="background-image:url(../../assets/image/technologie.jpg);"></div>
 </section>
 
 <section class="top80">
+  <div class=rectRea>
+    <div>
   <a class="imgLink" href="https://www.lecordinabytom.com/" target="_blank">
     <img alt="resto" src="../../assets/image/imgRestaurant.jpg">
   </a>
   <p>Développement d'un site internet pour un restaurant avec possibilité de réserver, commander et payer en ligne. </p>
-
+  </div>
+  </div>
+  <div  class=rectRea>
+    <div>
   <a class="imgLink" href="https://www.ups.com/fr/fr/business-solutions/business-shipping-tools.page" target="_blank">
     <img alt="ups" src="../../assets/image/ups-logo.png">  </a>
     <p>Création d'une application pour gérer les livraisons. </p>
+    </div>
+    </div>
+    <div  class=rectRea>
+      <div>
     <a class="imgLink" href="https://centre-valdeloire.chambres-agriculture.fr/agroenvironnement/eau/gestion-quantitative/cher/net-irrig-le-bilan-hydrique-en-ligne/" target="_blank">
     <img alt="ups" src="../../assets/image/NEt-Irrig.png">  </a>
     <p>Réalisation d'un site internet pour promouvoir Net-Irrig, un outil dédié au pilotage de l'irrigation. </p>
-
+    </div>
+    </div>
 </section>
 
 
@@ -80,5 +90,4 @@ namespace SGL\AWW;
   </div>
 
 </section>
-
 <?php include_once '../../partials/footer.php'; ?>
